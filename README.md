@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m Arvin Behbahani👋<br><br>A Backend Developer and AI Programmer 💻🤖<br>Passionate about continuous learning and personal growth 📚🚀<br>Always eager to build useful and practical solutions to solve real-world problems 🛠️🎯<br>code with energy and creativity! 😃😃😃<br><br>To me, programming isn’t just a skill – it’s an art for building the future 🎨
+Hi there! I’m Arvin Behbahani👋<br><br>A Full Stack Developer and AI Programmer 💻🤖<br>Passionate about continuous learning and personal growth 📚🚀<br>Always eager to build useful and practical solutions to solve real-world problems 🛠️🎯<br>code with energy and creativity! 😃😃😃<br><br>To me, programming isn’t just a skill – it’s an art for building the future 🎨
 
 
 ## 🌐 Socials:
